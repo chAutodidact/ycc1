@@ -1,2 +1,1 @@
-# ycc1
-GitHub Pages
+https://chautodidact.github.io/ycc1/
